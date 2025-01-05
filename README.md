@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MKPTechnicals
+- 👋 Hi, I’m Meet K Patel @MKPTechnicals
 - 👀 I’m interested in Deep Learning (DL), Cyber Security.
 - 🌱 I’m currently researching about DL model optimization for reduced computational power and storage constraints.
 - 💞️ I’m looking to collaborate on a project on neural network.
