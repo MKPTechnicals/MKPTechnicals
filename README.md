@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meet K Patel @MKPTechnicals
 - 👀 I’m interested in Deep Learning (DL), Computational and Storage Optimization for DL models.
 - 🌱 I’m currently researching about DL model optimization for reduced computational power and storage constraints.
-- 💞️ I’m looking to collaborate on a project on neural network.
+- 💞️ I’m looking to collaborate on a project on neural networks, model optimization and python development.
 - 🔍Looking forward to collaborate for research work in deep learning & model optimization.
 - 📫 Contact: meetp6116@gmail.com, https://www.linkedin.com/in/meetpatel1265/
 
