@@ -3,7 +3,9 @@
 - 🌱 I’m currently researching about DL model optimization for reduced computational power and storage constraints.
 - 💞️ I’m looking to collaborate on a project on neural networks, model optimization and python development.
 - 🔍Looking forward to collaborate for research work in deep learning & model optimization.
-- 📫 Contact: meetp6116@gmail.com, https://www.linkedin.com/in/meetpatel1265/
+- 📫 Contact:
+  - Email: meetp6116@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/meetpatel1265/
 
 <!---
 MKPTechnicals/MKPTechnicals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
