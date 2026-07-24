@@ -6,6 +6,8 @@
 - 📫 Contact:
   - Email: meetp6116@gmail.com
   - LinkedIn: https://www.linkedin.com/in/meetpatel1265/
+  - ORCiD: https://orcid.org/0009-0001-1006-8274
+  - Research Gate: https://www.researchgate.net/profile/Meet-Patel-174
 
 <!---
 MKPTechnicals/MKPTechnicals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
