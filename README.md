@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on a project on neural networks, model optimization and python development.
 - 🔍Looking forward to collaborate for research work in deep learning & model optimization.
 - 📫 Contact:
+  - Portfolio: https://varchasai.free.nf/meet
   - Email: meetp6116@gmail.com
   - LinkedIn: https://www.linkedin.com/in/meetpatel1265/
   - ORCiD: https://orcid.org/0009-0001-1006-8274
